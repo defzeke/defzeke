@@ -1,4 +1,4 @@
-<h1 align="center">💻 So Zeke</h1>
+<h1 align="center">💻 Zeke</h1>
 <p align="center">Aspiring Software Engineer</p>
 
 ---
