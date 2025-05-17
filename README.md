@@ -1,9 +1,3 @@
-<h1 align="center">👨‍💻 PyTracker by Defzeke</h1>
-
-<p align="center">A Python-based team attendance tracking system built with Tkinter and Pandas.</p>
-
----
-
 ### 🐍 About Me
 
 Hi! I’m **Defzeke**, a developer passionate about building desktop tools and user-friendly Python applications.  
@@ -31,13 +25,6 @@ Always learning, always building.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </p>
-
----
-
-### 📊 Projects
-
-- **[PyTracker](https://github.com/defzeke/pytracker)**  
-  A simple, GUI-based attendance system for teams using Python, Tkinter, and Pandas.
 
 ---
 
