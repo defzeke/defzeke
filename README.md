@@ -5,9 +5,8 @@
 
 ### 🚀 About Me
 
-Hey! I'm **defzeke**, an aspiring fullstack web developer and software engineer, with a strong love for building both practical tools and creative projects.  
-My main language is **Python**, but I also enjoy designing interfaces, exploring backend tech, and diving into **game dev** on the side.  
-Whether it's a web app, desktop GUI, or Unity game — I'm all about learning and building.
+Hi! I'm Ezekiel, a soon-to-be fullstack web developer and software engineer with a passion for creating useful tools as well as creative projects.
+Python is my primary language, but I also like to design interfaces, dig into backend tech, and delve into game dev in my spare time.
 
 ---
 
