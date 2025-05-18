@@ -53,7 +53,7 @@ Python is my primary language, but I also like to design interfaces, dig into ba
 
 ---
 
-### 📫 Let's Connect !(https://visitor-badge.laobi.icu/badge?page_id=gfdelrosario12.gfdelrosario12)
+### 📫 Let's Connect ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gfdelrosario12.gfdelrosario12)
 
 Feel free to check out my projects or reach out for collabs.  
 I’m always open to feedback and learning.
