@@ -2,7 +2,7 @@
 <p align="center">Aspiring Software Engineer</p>
 
 ---
-a
+
 ### 🚀 About Me
 
 Hi! I'm Ezekiel, a soon-to-be fullstack web developer and software engineer with a passion for creating useful tools as well as creative projects.
