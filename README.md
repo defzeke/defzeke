@@ -60,6 +60,6 @@ Python is my primary language, but I also like to design interfaces, dig into ba
 Feel free to check out my projects or reach out for collabs.  
 I’m always open to feedback and learning.
 
-📧 Email: [youremail@example.com](mailto:ezekiel.bustamante.549@gmail.com)
+📧 Email: [ezekiel.bustamante.549@gmail.com](mailto:ezekiel.bustamante.549@gmail.com)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=defzeke.defzeke)
