@@ -20,7 +20,7 @@ Interested in how systems work, how they break, and how they can be built more s
 
 ### Databases, Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,neon,mysql,firebase,supabase,docker,grafana,aws,gcp,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=postgres" /><a href="https://neon.tech"><img src="https://api.iconify.design/logos:neon-icon.svg?height=48" alt="Neon" style="vertical-align: middle; margin: 0px 4px;" /></a><img src="https://skillicons.dev/icons?i=supabase,mysql,firebase,docker,grafana,aws,gcp,vercel,render" />
 </p>
 
 ---
