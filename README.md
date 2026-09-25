@@ -29,3 +29,11 @@ Interested in how systems work, how they break, and how they can be built more s
 - [LinkedIn](https://www.linkedin.com/in/ezekiel-bustamante-166493353/)
 - [Portfolio](https://heyzeke.me/)
 - Email: onlyzekedotcom@gmail.com
+
+### My Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/defzeke/defzeke/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/defzeke/defzeke/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/defzeke/defzeke/output/github-contribution-grid-snake.svg">
+</picture>
